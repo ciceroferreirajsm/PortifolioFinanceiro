@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\dev_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:dev_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC7E63-7D7A-4D4E-8513-951F1057D075}|..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceirotest\\repositories\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC7E63-7D7A-4D4E-8513-951F1057D075}|..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceirotest\\services\\mappingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC7E63-7D7A-4D4E-8513-951F1057D075}|..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceirotest\\modeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\services\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:services\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\repositories\\iassetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:repositories\\iassetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\services\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:services\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\models\\dtos\\portfoliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:models\\dtos\\portfoliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\services\\seeddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:services\\seeddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC7E63-7D7A-4D4E-8513-951F1057D075}|..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceirotest\\services\\portfolioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC7E63-7D7A-4D4E-8513-951F1057D075}|..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceirotest\\portifoliofinanceirotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|d:\\heavy soldier files\\desktop\\projetos\\financeiroapi\\portifoliofinanceiro\\portifoliofinanceiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCD0AB73-918E-4A41-AC07-46387717D5DB}|PortifolioFinanceiro.csproj|solutionrelative:portifoliofinanceiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DEV_GUIDE.md",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\DEV_GUIDE.md",
+              "RelativeDocumentMoniker": "DEV_GUIDE.md",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\DEV_GUIDE.md",
+              "RelativeToolTip": "DEV_GUIDE.md",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAALUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T17:37:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACIBAAAAAAAAAAAwwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T17:36:14.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingServiceTests.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Services\\MappingServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\PortifolioFinanceiroTest\\Services\\MappingServiceTests.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Services\\MappingServiceTests.cs",
+              "RelativeToolTip": "..\\PortifolioFinanceiroTest\\Services\\MappingServiceTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:18:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryTests.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Repositories\\RepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\PortifolioFinanceiroTest\\Repositories\\RepositoryTests.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Repositories\\RepositoryTests.cs",
+              "RelativeToolTip": "..\\PortifolioFinanceiroTest\\Repositories\\RepositoryTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAwwE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:17:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelTests.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\ModelTests.cs",
+              "RelativeDocumentMoniker": "..\\PortifolioFinanceiroTest\\ModelTests.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\ModelTests.cs",
+              "RelativeToolTip": "..\\PortifolioFinanceiroTest\\ModelTests.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwHoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:17:21.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PortfolioDto.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Models\\DTOs\\PortfolioDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PortfolioDto.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Models\\DTOs\\PortfolioDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PortfolioDto.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvz8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:40:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedData.json",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\SeedData.json",
+              "RelativeDocumentMoniker": "SeedData.json",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\SeedData.json",
+              "RelativeToolTip": "SeedData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T14:37:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedDataService.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\SeedDataService.cs",
+              "RelativeDocumentMoniker": "Services\\SeedDataService.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\SeedDataService.cs",
+              "RelativeToolTip": "Services\\SeedDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:32:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Repositories\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AssetRepository.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Repositories\\AssetRepository.cs",
+              "RelativeToolTip": "Repositories\\AssetRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:32:03.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAssetRepository.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Repositories\\IAssetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAssetRepository.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Repositories\\IAssetRepository.cs",
+              "RelativeToolTip": "Repositories\\IAssetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:32:01.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:28:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfoliosController.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Controllers\\PortfoliosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfoliosController.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Controllers\\PortfoliosController.cs",
+              "RelativeToolTip": "Controllers\\PortfoliosController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAqwI0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:39:52.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortfolioService.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\PortfolioService.cs",
+              "RelativeDocumentMoniker": "Services\\PortfolioService.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\PortfolioService.cs",
+              "RelativeToolTip": "Services\\PortfolioService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:48:37.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingService.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\MappingService.cs",
+              "RelativeDocumentMoniker": "Services\\MappingService.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Services\\MappingService.cs",
+              "RelativeToolTip": "Services\\MappingService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwHsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:40:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwCkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:21:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ControllerExtensions.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Extensions\\ControllerExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ControllerExtensions.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Extensions\\ControllerExtensions.cs",
+              "RelativeToolTip": "Extensions\\ControllerExtensions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:13:30.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PortifolioFinanceiroTest",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj",
+              "RelativeDocumentMoniker": "..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj",
+              "RelativeToolTip": "..\\PortifolioFinanceiroTest\\PortifolioFinanceiroTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T14:09:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PortifolioFinanceiro",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\PortifolioFinanceiro.csproj",
+              "RelativeDocumentMoniker": "PortifolioFinanceiro.csproj",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\PortifolioFinanceiro.csproj",
+              "RelativeToolTip": "PortifolioFinanceiro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T14:09:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:32:34.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PortfolioServiceTests.cs",
+              "DocumentMoniker": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Services\\PortfolioServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\PortifolioFinanceiroTest\\Services\\PortfolioServiceTests.cs",
+              "ToolTip": "D:\\Heavy Soldier Files\\Desktop\\Projetos\\FinanceiroApi\\PortifolioFinanceiroTest\\Services\\PortfolioServiceTests.cs",
+              "RelativeToolTip": "..\\PortifolioFinanceiroTest\\Services\\PortfolioServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:48:55.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AssetsController",
+    "Method": "GetAllAssets",
+    "RelativePath": "api/assets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AssetsController",
+    "Method": "CreateAsset",
+    "RelativePath": "api/assets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAssetDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.CreateAssetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AssetsController",
+    "Method": "GetAssetById",
+    "RelativePath": "api/assets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AssetsController",
+    "Method": "UpdatePrice",
+    "RelativePath": "api/assets/{id}/price",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatePriceDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.UpdatePriceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AssetsController",
+    "Method": "SearchBySymbol",
+    "RelativePath": "api/assets/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "GetUserPortfolios",
+    "RelativePath": "api/portfolios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "CreatePortfolio",
+    "RelativePath": "api/portfolios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPortfolioDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.CreatePortfolioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "GetPortfolioDetails",
+    "RelativePath": "api/portfolios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AnalyticsController",
+    "Method": "GetPerformance",
+    "RelativePath": "api/portfolios/{id}/performance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "AddPosition",
+    "RelativePath": "api/portfolios/{id}/positions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "createPositionDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.CreatePositionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "UpdatePosition",
+    "RelativePath": "api/portfolios/{id}/positions/{positionId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "positionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatePositionDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.UpdatePositionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "RemovePosition",
+    "RelativePath": "api/portfolios/{id}/positions/{positionId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "positionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.PortfoliosController",
+    "Method": "AddMultiplePositions",
+    "RelativePath": "api/portfolios/{id}/positions/batch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "createMultiplePositionsDto",
+        "Type": "PortifolioFinanceiro.Models.DTOs.CreateMultiplePositionsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AnalyticsController",
+    "Method": "GetRebalancingSuggestion",
+    "RelativePath": "api/portfolios/{id}/rebalancing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortifolioFinanceiro.Controllers.AnalyticsController",
+    "Method": "GetRiskAnalysis",
+    "RelativePath": "api/portfolios/{id}/risk-analysis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

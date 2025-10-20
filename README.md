@@ -329,5 +329,6 @@ O arquivo `SeedData.json` é sua **fonte única de dados** para o teste. Ele con
 4. **Valide o essencial**: Preços negativos, quantidades inválidas
 5. **Documente decisões**: Explique fórmulas financeiras usadas
 6. **Teste frequentemente**: Valide cada cálculo implementado
-7. **Atenção**: Funcional > perfeito#   P o r t i f o l i o F i n a n c e i r o  
+7. **Atenção**: Funcional > perfeito#   P o r t i f o l i o F i n a n c e i r o 
+ 
  
